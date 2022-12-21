@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'graphene_django'
 ]
 
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
